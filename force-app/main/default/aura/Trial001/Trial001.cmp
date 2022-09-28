@@ -1,0 +1,4 @@
+<aura:component >
+	<p><b>"This is just to test the application and component</b></p>
+    <img src="https://static1.bigstockphoto.com/5/8/3/large1500/385623743.jpg"/>
+</aura:component>

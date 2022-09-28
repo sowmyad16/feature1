@@ -1,0 +1,12 @@
+<aura:component >
+    <P><i>Hello welcome to lightening</i></P>
+    <br></br>
+    <lightning:button variant="base" label="Base" title="Base action" onclick="{! c.handleClick }"/>
+        <lightning:button label="Neutral" title="Neutral action" onclick="{! c.handleClick }"/>
+        <ui:outputURL value="https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/components_navigation_add_links.htm" label="Submit" />
+
+    <br></br>
+    <br></br>
+    <img src="https://static1.bigstockphoto.com/5/8/3/large1500/385623743.jpg"/>
+
+</aura:component>
